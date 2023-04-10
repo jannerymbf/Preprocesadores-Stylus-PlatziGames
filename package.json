@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "live-server --open=html/ejercicio-stylus.html"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
